@@ -1,0 +1,11 @@
+numpyro
+jax
+jaxlib
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+arviz
+requests
